@@ -27,28 +27,100 @@
     <leaf>
       <file leaf-file-name="changlog.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/changlog.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="899">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+              <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="64" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="md5.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/js/md5.js">
+      <file leaf-file-name="articlecat.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/articlecat.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4845">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-14.25" vertical-offset="342" max-vertical-offset="6745">
+              <caret line="39" column="20" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="20" />
+              <folding>
+                <element signature="e#7#491#0#PHP" expanded="true" />
+                <marker date="1425539655818" expanded="true" signature="2851:2941" placeholder="SELECT cat_t.._ecs_table_article_cat_ WHERE..." />
+                <marker date="1425539655818" expanded="true" signature="3202:3481" placeholder="INSERT INTO ..." />
+                <marker date="1425539655818" expanded="true" signature="3579:3654" placeholder="SELECT max(v.._ecs_table_nav_ WHERE..." />
+                <marker date="1425539655818" expanded="true" signature="3720:4000" placeholder="INSERT INTO ..." />
+                <marker date="1425539655818" expanded="true" signature="4623:4788" placeholder="SELECT cat_i.._ecs_table_article_cat_ WHERE..." />
+                <marker date="1425539655818" expanded="true" signature="6453:6545" placeholder="SELECT cat_t.._ecs_table_article_cat_ WHERE..." />
+                <marker date="1425539655818" expanded="true" signature="7165:7255" placeholder="SELECT cat_t.._ecs_table_article_cat_ WHERE..." />
+                <marker date="1425539655818" expanded="true" signature="7521:7627" placeholder="SELECT cat_n.._ecs_table_article_cat_ WHERE..." />
+                <marker date="1425539655818" expanded="true" signature="8333:8445" placeholder="SELECT id FR.._ecs_table_nav_ WHERE..." />
+                <marker date="1425539655818" expanded="true" signature="8530:8605" placeholder="SELECT max(v.._ecs_table_nav_ WHERE..." />
+                <marker date="1425539655818" expanded="true" signature="8804:9058" placeholder="INSERT INTO ..." />
+                <marker date="1425539655818" expanded="true" signature="10796:10872" placeholder="SELECT cat_t.._ecs_table_article_cat_ WHERE..." />
+                <marker date="1425539655818" expanded="true" signature="11070:11149" placeholder="SELECT COUNT.._ecs_table_article_cat_ WHERE..." />
+                <marker date="1425539655818" expanded="true" signature="11297:11369" placeholder="SELECT COUNT.._ecs_table_article_ WHERE..." />
+                <marker date="1425539655818" expanded="true" signature="11521:11613" placeholder="DELETE FROM ..." />
+                <marker date="1425539655818" expanded="true" signature="12281:12372" placeholder="SELECT id FR.._ecs_table_nav_ WHERE..." />
+                <marker date="1425539655818" expanded="true" signature="12471:12546" placeholder="SELECT max(v.._ecs_table_nav_ WHERE..." />
+                <marker date="1425539655818" expanded="true" signature="12623:12699" placeholder="SELECT cat_n.._ecs_table_article_cat_ WHERE..." />
+                <marker date="1425539655818" expanded="true" signature="12819:13018" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="articlecat_list.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/templates/articlecat_list.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.321428" vertical-offset="0" max-vertical-offset="2546">
+              <caret line="27" column="89" selection-start-line="27" selection-start-column="89" selection-end-line="27" selection-end-column="89" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lib_common.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/lib_common.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.5" vertical-offset="35548" max-vertical-offset="52744">
+              <caret line="1893" column="0" selection-start-line="1893" selection-start-column="0" selection-end-line="1893" selection-end-column="0" />
+              <folding>
+                <marker date="1334114182000" expanded="true" signature="4139:4280" placeholder="SELECT regio.._GLOBALS_ecs_table_region_ WHERE..." />
+                <marker date="1334114182000" expanded="true" signature="4520:4625" placeholder="SELECT confi.._GLOBALS_ecs_table_shipping_area_ WHERE..." />
+                <marker date="1334114182000" expanded="true" signature="15010:15099" placeholder="SELECT code,.._GLOBALS_ecs_table_shop_config_ WHERE..." />
+                <marker date="1334114182000" expanded="true" signature="19083:19175" placeholder="SELECT brand.._GLOBALS_ecs_table_brand_ ORDER..." />
+                <marker date="1334114182000" expanded="true" signature="21148:21331" placeholder="SELECT act_i.._GLOBALS_ecs_table_goods_activity_ WHERE..." />
+                <marker date="1334114182000" expanded="true" signature="23842:24028" placeholder="SELECT act_i.._GLOBALS_ecs_table_favourable_activity_ WHERE..." />
+                <marker date="1334114182000" expanded="true" signature="24767:24874" placeholder="SELECT cat_i.._GLOBALS_ecs_table_goods_WHERE goods_id..." />
+                <marker date="1334114182000" expanded="true" signature="29231:29369" placeholder="SELECT templ.._GLOBALS_ecs_table_mail_templates_ WHERE..." />
+                <marker date="1334114182000" expanded="true" signature="29981:30412" placeholder="INSERT INTO ..." />
+                <marker date="1334114182000" expanded="true" signature="30177:30398" placeholder="SELECT order.._GLOBALS_ecs_table_order_info_ WHERE..." />
+                <marker date="1334114182000" expanded="true" signature="32012:32200" placeholder="SELECT goods.._GLOBALS_ecs_table_order_goods_ WHERE..." />
+                <marker date="1334114182000" expanded="true" signature="32240:32498" placeholder="SELECT goods.._GLOBALS_ecs_table_order_goods_ WHERE..." />
+                <marker date="1334114182000" expanded="true" signature="34404:34520" placeholder="SELECT COUNT.._GLOBALS_ecs_table_virtual_card_ WHERE..." />
+                <marker date="1334114182000" expanded="true" signature="34749:34912" placeholder="SELECT card_.._GLOBALS_ecs_table_virtual_card_ WHERE..." />
+                <marker date="1334114182000" expanded="true" signature="36514:36633" placeholder="SELECT order.._GLOBALS_ecs_table_order_info_ WHERE..." />
+                <marker date="1334114182000" expanded="true" signature="38472:38628" placeholder="SELECT card_.._GLOBALS_ecs_table_virtual_card_ WHERE..." />
+                <marker date="1334114182000" expanded="true" signature="40476:40655" placeholder="SELECT ext_i..." />
+                <marker date="1334114182000" expanded="true" signature="69944:70313" placeholder="SELECT a.att.._GLOBALS_ecs_table_attribute_ AS..." />
+                <marker date="1334114182000" expanded="true" signature="70884:71253" placeholder="SELECT a.att.._GLOBALS_ecs_table_attribute_ AS..." />
+                <marker date="1334114182000" expanded="true" signature="74805:75223" placeholder="SELECT pg.go.._GLOBALS_ecs_table_package_goods_ AS..." />
+                <marker date="1334114182000" expanded="true" signature="76159:76277" placeholder="SELECT goods.._GLOBALS_ecs_table_goods_attr_ WHERE..." />
+                <marker date="1334114182000" expanded="true" signature="77828:77900" placeholder="SELECT * FRO.._GLOBALS_ecs_table_products_ WHERE..." />
+                <marker date="1334114182000" expanded="true" signature="77996:78083" placeholder="SELECT goods.._GLOBALS_ecs_table_goods_attr_ WHERE..." />
+                <marker date="1334114182000" expanded="true" signature="79491:79764" placeholder="SELECT ga.go.._GLOBALS_ecs_table_goods_attr_ AS..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="152">
+            <state vertical-scroll-proportion="-1.1515151" vertical-offset="0" max-vertical-offset="152">
               <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
@@ -60,15 +132,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/changlog.md" />
+        <option value="$PROJECT_DIR$/admin/articlecat.php" />
+        <option value="$PROJECT_DIR$/admin/templates/articlecat_list.htm" />
+      </list>
+    </option>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="-1928" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1065" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -112,16 +193,49 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="k3shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="k3shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="k3shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="k3shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.lastSelected" value="vcs.Git" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -176,7 +290,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1065" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -185,7 +299,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2524013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16542156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -238,14 +352,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="152">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/js/md5.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4845">
@@ -254,10 +360,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/changlog.md">
+    <entry file="file://$PROJECT_DIR$/catalog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="899">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1349">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1515151" vertical-offset="0" max-vertical-offset="152">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/lib_common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5" vertical-offset="35548" max-vertical-offset="52744">
+          <caret line="1893" column="0" selection-start-line="1893" selection-start-column="0" selection-end-line="1893" selection-end-column="0" />
+          <folding>
+            <marker date="1334114182000" expanded="true" signature="4139:4280" placeholder="SELECT regio.._GLOBALS_ecs_table_region_ WHERE..." />
+            <marker date="1334114182000" expanded="true" signature="4520:4625" placeholder="SELECT confi.._GLOBALS_ecs_table_shipping_area_ WHERE..." />
+            <marker date="1334114182000" expanded="true" signature="15010:15099" placeholder="SELECT code,.._GLOBALS_ecs_table_shop_config_ WHERE..." />
+            <marker date="1334114182000" expanded="true" signature="19083:19175" placeholder="SELECT brand.._GLOBALS_ecs_table_brand_ ORDER..." />
+            <marker date="1334114182000" expanded="true" signature="21148:21331" placeholder="SELECT act_i.._GLOBALS_ecs_table_goods_activity_ WHERE..." />
+            <marker date="1334114182000" expanded="true" signature="23842:24028" placeholder="SELECT act_i.._GLOBALS_ecs_table_favourable_activity_ WHERE..." />
+            <marker date="1334114182000" expanded="true" signature="24767:24874" placeholder="SELECT cat_i.._GLOBALS_ecs_table_goods_WHERE goods_id..." />
+            <marker date="1334114182000" expanded="true" signature="29231:29369" placeholder="SELECT templ.._GLOBALS_ecs_table_mail_templates_ WHERE..." />
+            <marker date="1334114182000" expanded="true" signature="29981:30412" placeholder="INSERT INTO ..." />
+            <marker date="1334114182000" expanded="true" signature="30177:30398" placeholder="SELECT order.._GLOBALS_ecs_table_order_info_ WHERE..." />
+            <marker date="1334114182000" expanded="true" signature="32012:32200" placeholder="SELECT goods.._GLOBALS_ecs_table_order_goods_ WHERE..." />
+            <marker date="1334114182000" expanded="true" signature="32240:32498" placeholder="SELECT goods.._GLOBALS_ecs_table_order_goods_ WHERE..." />
+            <marker date="1334114182000" expanded="true" signature="34404:34520" placeholder="SELECT COUNT.._GLOBALS_ecs_table_virtual_card_ WHERE..." />
+            <marker date="1334114182000" expanded="true" signature="34749:34912" placeholder="SELECT card_.._GLOBALS_ecs_table_virtual_card_ WHERE..." />
+            <marker date="1334114182000" expanded="true" signature="36514:36633" placeholder="SELECT order.._GLOBALS_ecs_table_order_info_ WHERE..." />
+            <marker date="1334114182000" expanded="true" signature="38472:38628" placeholder="SELECT card_.._GLOBALS_ecs_table_virtual_card_ WHERE..." />
+            <marker date="1334114182000" expanded="true" signature="40476:40655" placeholder="SELECT ext_i..." />
+            <marker date="1334114182000" expanded="true" signature="69944:70313" placeholder="SELECT a.att.._GLOBALS_ecs_table_attribute_ AS..." />
+            <marker date="1334114182000" expanded="true" signature="70884:71253" placeholder="SELECT a.att.._GLOBALS_ecs_table_attribute_ AS..." />
+            <marker date="1334114182000" expanded="true" signature="74805:75223" placeholder="SELECT pg.go.._GLOBALS_ecs_table_package_goods_ AS..." />
+            <marker date="1334114182000" expanded="true" signature="76159:76277" placeholder="SELECT goods.._GLOBALS_ecs_table_goods_attr_ WHERE..." />
+            <marker date="1334114182000" expanded="true" signature="77828:77900" placeholder="SELECT * FRO.._GLOBALS_ecs_table_products_ WHERE..." />
+            <marker date="1334114182000" expanded="true" signature="77996:78083" placeholder="SELECT goods.._GLOBALS_ecs_table_goods_attr_ WHERE..." />
+            <marker date="1334114182000" expanded="true" signature="79491:79764" placeholder="SELECT ga.go.._GLOBALS_ecs_table_goods_attr_ AS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/articlecat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.25" vertical-offset="342" max-vertical-offset="6745">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="20" />
+          <folding>
+            <element signature="e#7#491#0#PHP" expanded="true" />
+            <marker date="1425539655818" expanded="true" signature="2851:2941" placeholder="SELECT cat_t.._ecs_table_article_cat_ WHERE..." />
+            <marker date="1425539655818" expanded="true" signature="3202:3481" placeholder="INSERT INTO ..." />
+            <marker date="1425539655818" expanded="true" signature="3579:3654" placeholder="SELECT max(v.._ecs_table_nav_ WHERE..." />
+            <marker date="1425539655818" expanded="true" signature="3720:4000" placeholder="INSERT INTO ..." />
+            <marker date="1425539655818" expanded="true" signature="4623:4788" placeholder="SELECT cat_i.._ecs_table_article_cat_ WHERE..." />
+            <marker date="1425539655818" expanded="true" signature="6453:6545" placeholder="SELECT cat_t.._ecs_table_article_cat_ WHERE..." />
+            <marker date="1425539655818" expanded="true" signature="7165:7255" placeholder="SELECT cat_t.._ecs_table_article_cat_ WHERE..." />
+            <marker date="1425539655818" expanded="true" signature="7521:7627" placeholder="SELECT cat_n.._ecs_table_article_cat_ WHERE..." />
+            <marker date="1425539655818" expanded="true" signature="8333:8445" placeholder="SELECT id FR.._ecs_table_nav_ WHERE..." />
+            <marker date="1425539655818" expanded="true" signature="8530:8605" placeholder="SELECT max(v.._ecs_table_nav_ WHERE..." />
+            <marker date="1425539655818" expanded="true" signature="8804:9058" placeholder="INSERT INTO ..." />
+            <marker date="1425539655818" expanded="true" signature="10796:10872" placeholder="SELECT cat_t.._ecs_table_article_cat_ WHERE..." />
+            <marker date="1425539655818" expanded="true" signature="11070:11149" placeholder="SELECT COUNT.._ecs_table_article_cat_ WHERE..." />
+            <marker date="1425539655818" expanded="true" signature="11297:11369" placeholder="SELECT COUNT.._ecs_table_article_ WHERE..." />
+            <marker date="1425539655818" expanded="true" signature="11521:11613" placeholder="DELETE FROM ..." />
+            <marker date="1425539655818" expanded="true" signature="12281:12372" placeholder="SELECT id FR.._ecs_table_nav_ WHERE..." />
+            <marker date="1425539655818" expanded="true" signature="12471:12546" placeholder="SELECT max(v.._ecs_table_nav_ WHERE..." />
+            <marker date="1425539655818" expanded="true" signature="12623:12699" placeholder="SELECT cat_n.._ecs_table_article_cat_ WHERE..." />
+            <marker date="1425539655818" expanded="true" signature="12819:13018" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/articlecat_list.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.321428" vertical-offset="0" max-vertical-offset="2546">
+          <caret line="27" column="89" selection-start-line="27" selection-start-column="89" selection-end-line="27" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/changlog.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="64" />
           <folding />
         </state>
       </provider>

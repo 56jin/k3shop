@@ -25,7 +25,7 @@
       {else}
       <img src="images/menu_arrow.gif" width="9" height="9" border="0" style="margin-left:{$cat.level}em" />
       {/if}
-      <span><a href="article.php?act=list&amp;cat_id={$cat.cat_id}">{$cat.cat_name|escape}</a></span>
+      <span><a href="article.php?act=list&amp;cat_id={$cat.cat_id}">[{$cat.cat_id}]&nbsp;{$cat.cat_name|escape}</a></span>
     </td>
     <td class="nowrap" valign="top">
       {$cat.type_name|escape}
