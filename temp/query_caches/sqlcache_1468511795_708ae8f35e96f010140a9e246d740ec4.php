@@ -1,0 +1,1 @@
+<?php exit;?>1421652822a:4:{i:0;a:2:{s:10:"article_id";s:2:"24";s:5:"title";s:12:"官方微信";}i:1;a:2:{s:10:"article_id";s:2:"23";s:5:"title";s:8:"QQ空间";}i:2;a:2:{s:10:"article_id";s:2:"22";s:5:"title";s:12:"新浪微博";}i:3;a:2:{s:10:"article_id";s:2:"21";s:5:"title";s:42:"国庆节客服、小米之家服务时间";}}
